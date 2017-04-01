@@ -1,0 +1,2 @@
+http://www.vxdev.com/docs/vx55man/vxworks/guide/c-basic.html
+http://www.cs.ru.nl/lab/vxworks/vxworksOS.html
